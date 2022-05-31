@@ -12,5 +12,12 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "AM Motlhabinyana",
-	"description": "learning back end with node.js"
+	"description": "learning back end with node.js",
+	"keywords": [
+		"freecodecamp",
+		"back-end",
+		"node.js",
+		"learning",
+		"APIs"
+	]
 }
