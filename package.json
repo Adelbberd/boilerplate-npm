@@ -19,5 +19,6 @@
 		"node.js",
 		"learning",
 		"APIs"
-	]
+	],
+	"License": "MIT"
 }
