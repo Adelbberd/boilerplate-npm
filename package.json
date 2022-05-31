@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "AM Motlhabinyana"
+	"author": "AM Motlhabinyana",
+	"description": "learning back end with node.js"
 }
